@@ -1,6 +1,6 @@
 # Simple 2D Platformer Game Project
 
-**Special thanks to "Pandemonium" for a fantastic course! [Youtube](https://www.youtube.com/@PandemoniumGameDev))
+**Special thanks to "Pandemonium" for a fantastic course! [Youtube](https://www.youtube.com/@PandemoniumGameDev)
 
 A **real-time action game** developed in **Unity**, featuring interactive gameplay mechanics, physics-based movement, and efficient game state management. Built to demonstrate game design, scene architecture, and player interaction systems.
 
